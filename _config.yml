@@ -37,7 +37,7 @@ features:
 
   - title: Native iOS Experience
     description: Designed with the intent of seamlessly integrating with your iOS device.
-    fontawesome_icon_name: apple
+    fontawesome_icon_name: mobile
 
   - title: Spell Checking
     description: Offers real-time suggestions in Armenian, ensuring your messages are error-free.
