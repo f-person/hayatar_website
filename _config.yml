@@ -14,13 +14,13 @@ presskit_download_link:
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Hayatar
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Write a short tagline for your app.
+app_description: Elevate Your Armenian Typing Experience
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
 your_name: Arshak
-your_link: https://blog.fperson.dev
+your_link: https://github.com/f-person
 your_city: Yerevan 🇦🇲
 email_address: hayatar@fperson.dev
 facebook_username:
@@ -30,47 +30,38 @@ github_username: f-person
 youtube_username: f-person
 mastodon_link: https://fosstodon.org/@fperson
 
-# Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: GitHub Pages Jekyll Theme
-    description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name: magic
+  - title: Open-Source, Privacy-Centric
+    description: Hayatar is open-source and respects your privacy by not collecting any data.
+    fontawesome_icon_name: shield-alt
 
-  - title: iPhone Device Preview
-    description: Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name: mobile
+  - title: Native iOS Experience
+    description: Designed with the intent of seamlessly integrating with your iOS device.
+    fontawesome_icon_name: apple
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
+  - title: Spell Checking
+    description: Offers real-time suggestions in Armenian, ensuring your messages are error-free.
+    fontawesome_icon_name: spell-check
 
-  - title: Automatic Icon and Metadata
-    description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title: Customizable & Synced
+    description: Customize the keyboard's behavior and settings, synced across all your iOS devices.
     fontawesome_icon_name: sync
 
-  - title: Easy to Tweak
-    description: Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title: Light & Dark Modes
+    description: Supports both light and dark modes, ensuring your comfort and visibility.
     fontawesome_icon_name: adjust
 
-  - title: Feature List
-    description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: star
+  - title: Haptic & Sound Feedback
+    description: Each key press provides subtle haptic feedback and satisfying sound.
+    fontawesome_icon_name: volume-up
 
-  - title: Smart App Banner
-    description: Display a smart app banner on iOS devices.
-    fontawesome_icon_name: arrow-alt-circle-down
+  - title: Callout Actions
+    description: Quickly access all the symbols you need, including a dedicated number row.
+    fontawesome_icon_name: keyboard
 
-  - title: Social Links
-    description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: link
-
-  - title: FontAwesome Support
-    description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: info-circle
-
-  - title: # New Feature Title
-    description: # New Feature Description
-    fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title: Beautiful Design
+    description: A meticulously designed keyboard that combines aesthetics with functionality.
+    fontawesome_icon_name: feather
 
 # Theme Settings
 topbar_color: "#000000"
