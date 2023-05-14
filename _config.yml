@@ -21,14 +21,14 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 # Information About Yourself
 your_name: Arshak
 your_link: https://blog.fperson.dev
-your_city: Yerevan
+your_city: Yerevan 🇦🇲
 email_address: hayatar@fperson.dev
 facebook_username:
 instagram_username:
 twitter_username:
 github_username: f-person
-youtube_username:
-mastodon_link: https://mastodon.social/@ebaehr
+youtube_username: f-person
+mastodon_link: https://fosstodon.org/@fperson
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
