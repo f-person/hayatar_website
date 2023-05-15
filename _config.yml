@@ -31,8 +31,8 @@ youtube_username: f-person
 mastodon_link: https://fosstodon.org/@fperson
 
 features:
-  - title: <a href="https://github.com/f-person/hayatar">Open-Source</a>, Privacy-Centric"
-    description: Hayatar is open-source and respects your privacy by not collecting any data.
+  - title: Open-Source, Privacy-Centric
+    description: Hayatar is <a href="https://github.com/f-person/hayatar">open-Source</a> and respects your privacy by not collecting any data.
     fontawesome_icon_name: shield-alt
 
   - title: Native iOS Experience
